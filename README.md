@@ -10,3 +10,5 @@ Projects done between October 2021 and February 2022:
 8. Motorbikes vs phones - comparison of the number of telephones and the number of motorcycles per 1000 people in European countries
 9. Extremes and critical points - finding extremes and critical points of function
 10. Spanish - analysis with what letters the most Spanish words start with
+
+11. Project - visualisation about traffic accidents.
